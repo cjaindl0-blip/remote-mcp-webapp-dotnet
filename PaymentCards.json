@@ -1,0 +1,54 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "18.6",
+    "data_type" : "payment_cards",
+    "export_time_usec" : 1758974859302120,
+    "schema_version" : 1
+  },
+  "payment_cards" : [
+    {
+      "card_number" : "5332480487666978",
+      "card_name" : "Mastercard",
+      "cardholder_name" : "Richard  Phillips",
+      "card_expiration_month" : 5,
+      "card_expiration_year" : 2033,
+      "card_last_used_time_usec" : 1757077250440895
+    },
+    {
+      "card_number" : "4031630271284027",
+      "card_name" : "colby jaindl’s Visa (2)",
+      "cardholder_name" : "colby jaindl",
+      "card_expiration_month" : 3,
+      "card_expiration_year" : 2029,
+      "card_last_used_time_usec" : 1753936791904113
+    },
+    {
+      "card_number" : "4403934948853150",
+      "card_name" : "Visa (2)",
+      "cardholder_name" : "Cnite Jaindl",
+      "card_expiration_month" : 6,
+      "card_expiration_year" : 2028,
+      "card_last_used_time_usec" : 1753372119044983
+    },
+    {
+      "card_number" : "6011393455648256",
+      "card_name" : "Discover card",
+      "card_last_used_time_usec" : 1728240899070087
+    },
+    {
+      "card_number" : "4108810054768887",
+      "card_name" : "colby jaindl’s Visa",
+      "cardholder_name" : "colby jaindl",
+      "card_expiration_month" : 2,
+      "card_expiration_year" : 2032,
+      "card_last_used_time_usec" : 1727436157261111
+    },
+    {
+      "card_number" : "4985031147305888",
+      "card_name" : "Visa",
+      "cardholder_name" : "Chime",
+      "card_last_used_time_usec" : 1726381426446598
+    }
+  ]
+}
